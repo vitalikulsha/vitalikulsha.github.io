@@ -22,7 +22,7 @@ Java coding course at EPAM
  Java coding course rpa_S4 at JavaGuru
 </h2>
 
-### :open_file_folder: [JavaGuru rpa_S4](https://github.com/javaGuruBY/rpaS4/)
+### 📁 [JavaGuru rpa_S4](https://github.com/javaGuruBY/rpaS4/)
 * 📁 [JAVA homework](https://github.com/javaGuruBY/rpaS4/tree/master/homework/java/VitaliKulsha/)
 * 📁 [ENGLISH homework](https://github.com/javaGuruBY/rpaS4/tree/master/homework/english/)
 
@@ -30,5 +30,5 @@ Java coding course at EPAM
 Java coding course at JavaRush
 </h2>
 
-### :open_file_folder: [JavaRush](https://github.com/vitalikulsha/JavaRush/)
-* :open_file_folder: [Java Core](https://github.com/vitalikulsha/JavaRush/tree/master/JavaCore/src/)
+### 📁 [JavaRush](https://github.com/vitalikulsha/JavaRush/)
+* 📁 [Java Core](https://github.com/vitalikulsha/JavaRush/tree/master/JavaCore/src/)
