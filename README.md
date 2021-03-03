@@ -13,6 +13,11 @@
     * 📁 [The simplest classes and objects](https://github.com/vitalikulsha/SimpleClass/)
     * 📁 [Aggregation and composition](https://github.com/vitalikulsha/AggregationAndComposition/)
 * 📁 [Basics of OOP](https://github.com/vitalikulsha/BasicOfOOP/)
+
+<h2> <img src="img/JG.png" align="left" width="25">
+JavaGuru rpa_S4
+</h2>
+
 ### :open_file_folder: [JavaGuru rpa_S4](https://github.com/javaGuruBY/rpaS4/)
 * 📁 [JAVA homework](https://github.com/javaGuruBY/rpaS4/tree/master/homework/java/VitaliKulsha/)
 * 📁 [ENGLISH homework](https://github.com/javaGuruBY/rpaS4/tree/master/homework/english/)
