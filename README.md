@@ -1,8 +1,7 @@
-# Vitali Kulsha
-
-<h2> <img src="img/my_photo.jpg" align="right" width="150">
- My accaunt on github
+<h2> <img src="img/my_photo.jpg" align="right" width="300">
 </h2>
+
+# Vitali Kulsha
 
 ## My accaunt on [github.com](https://github.com/vitalikulsha/)
 
