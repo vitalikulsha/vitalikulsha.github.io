@@ -5,7 +5,11 @@
 
 ## My accaunt on [github.com](https://github.com/vitalikulsha/)
 
-### Java coding course at EPAM: Java Basics_UpSkill Lab #1:
+<h2> <img src="img/epam_learn.png" align="left" width="60">
+Java coding course at EPAM
+</h2>
+
+### Java Basics_UpSkill Lab #1
 * 📁 [Basics of software code development](https://github.com/vitalikulsha/java-course1/)
 * 📁 [Algorithmization](https://github.com/vitalikulsha/java-course2/)
 * 📁 [Strings and basics of text processing](https://github.com/vitalikulsha/java-course3/)
@@ -15,12 +19,16 @@
 * 📁 [Basics of OOP](https://github.com/vitalikulsha/BasicOfOOP/)
 
 <h2> <img src="img/JG.png" align="left" width="25">
-JavaGuru rpa_S4
+ Java coding course rpa_S4 at JavaGuru
 </h2>
 
 ### :open_file_folder: [JavaGuru rpa_S4](https://github.com/javaGuruBY/rpaS4/)
 * 📁 [JAVA homework](https://github.com/javaGuruBY/rpaS4/tree/master/homework/java/VitaliKulsha/)
 * 📁 [ENGLISH homework](https://github.com/javaGuruBY/rpaS4/tree/master/homework/english/)
+
+<h2> <img src="img/JR.jpg" align="left" width="120">
+Java coding course at JavaRush
+</h2>
 
 ### :open_file_folder: [JavaRush](https://github.com/vitalikulsha/JavaRush/)
 * :open_file_folder: [Java Core](https://github.com/vitalikulsha/JavaRush/tree/master/JavaCore/src/)
