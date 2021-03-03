@@ -1,4 +1,4 @@
-<h2> <img src="img/my_photo.jpg" align="right" width="300">
+<h2> <img src="img/my_photo.jpg" align="right" width="200">
 </h2>
 
 # Vitali Kulsha
