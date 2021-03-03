@@ -17,4 +17,8 @@
 ### :open_file_folder: [JavaGuru rpa_S4](https://github.com/javaGuruBY/rpaS4/)
 * :open_file_folder: [JAVA homwork](https://github.com/javaGuruBY/rpaS4/tree/master/homework/java/VitaliKulsha/)
 * :open_file_folder: [ENGLISH homwork](https://github.com/javaGuruBY/rpaS4/tree/master/homework/english/)
+
 ### :open_file_folder: [JavaRush](https://github.com/vitalikulsha/JavaRush/)
+* :open_file_folder: [Java Core](https://github.com/vitalikulsha/JavaRush/tree/master/JavaCore/src/)
+    * :open_file_folder: [level 05](https://github.com/vitalikulsha/JavaRush/tree/master/JavaCore/src/Level05/)
+    * :open_file_folder: [level 06](https://github.com/vitalikulsha/JavaRush/tree/master/JavaCore/src/Level06/)
