@@ -3,7 +3,8 @@
 
 # Vitali Kulsha
 
-## My accaunt on [github.com](https://github.com/vitalikulsha/)
+### My accaunt on [github.com](https://github.com/vitalikulsha/)
+### Here are the solutions to tasks from the courses EPAM, JavaRush, JavaGuru and others.
 
 <h2> <img src="img/epam_learn.png" align="left" width="60">
 Java coding course at EPAM
