@@ -6,8 +6,8 @@
 ## My accaunt on [github.com](https://github.com/vitalikulsha/)
 
 ### Java coding course at EPAM: Java Basics_UpSkill Lab #1:
-* :open_file_folder: 📁[Basics of software code development](https://github.com/vitalikulsha/java-course1/)
-* :open_file_folder: [Algorithmization](https://github.com/vitalikulsha/java-course2/)
+* 📁 [Basics of software code development](https://github.com/vitalikulsha/java-course1/)
+* 📁 [Algorithmization](https://github.com/vitalikulsha/java-course2/)
 * :open_file_folder: [Strings and basics of text processing](https://github.com/vitalikulsha/java-course3/)
 * :open_file_folder: Programming with classes:
     * :open_file_folder: [The simplest classes and objects](https://github.com/vitalikulsha/SimpleClass/)
