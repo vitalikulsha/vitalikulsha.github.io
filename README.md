@@ -1,7 +1,7 @@
 <h2> <img src="img/my_photo.jpg" align="right" width="200">
 </h2>
 
-<h2> <img src="img/logo V2.jpg" align="left" width="100">
+<h2> <img src="img/logo V2.jpg" align="left" width="80">
 </h2>
 
 # Vitali Kulsha
