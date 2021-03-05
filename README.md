@@ -19,11 +19,11 @@ Java coding course at EPAM
 ### Java Basics_UpSkill Lab #1
 * 📁 [Basics of software code development](https://github.com/vitalikulsha/java-course1/)
 * 📁 [Algorithmization](https://github.com/vitalikulsha/java-course2/)
-* 📁 [Strings and basics of text processing](https://github.com/vitalikulsha/java-course3/)
+* 📁 [Strings and basics of text processing](https://github.com/vitalikulsha/java-course3/blob/master/README.md)
 * 📁 Programming with classes:
     * 📁 [The simplest classes and objects](https://github.com/vitalikulsha/SimpleClass/)
     * 📁 [Aggregation and composition](https://github.com/vitalikulsha/AggregationAndComposition/)
-* 📁 [Basics of OOP](https://github.com/vitalikulsha/BasicOfOOP/)
+* 📁 [Basics of OOP](https://github.com/vitalikulsha/BasicOfOOP/blob/master/README.md)
 
 <h2> <img src="img/JG.png" align="left" width="25">
  Java coding course rpa_S4 at JavaGuru
