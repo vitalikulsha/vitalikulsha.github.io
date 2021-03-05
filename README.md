@@ -1,7 +1,3 @@
-<p> 
-  <img src="img/banner.jpg" align="right">
-</p>
-
 ![Alt](https://github.com/vitalikulsha/vitalikulsha.github.io/blob/main/img/banner.jpg)
 
 <h2>
