@@ -2,6 +2,8 @@
   <img src="img/banner.jpg" align="right">
 </p>
 
+![Alt](https://github.com/vitalikulsha/vitalikulsha.github.io/blob/main/img/banner.jpg)
+
 <h2>
    <img src="img/my_photo.jpg" align="right" width="200">
 </h2>
