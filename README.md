@@ -17,7 +17,7 @@ Java coding course at EPAM
 </h2>
 
 ### Java Basics_UpSkill Lab #1
-* 📁 [Basics of software code development](https://github.com/vitalikulsha/java-course1/)
+* 📁 [Basics of software code development](https://github.com/vitalikulsha/java-course1/blob/master/README.md)
 * 📁 [Algorithmization](https://github.com/vitalikulsha/java-course2/blob/master/README.md)
 * 📁 [Strings and basics of text processing](https://github.com/vitalikulsha/java-course3/blob/master/README.md)
 * 📁 Programming with classes:
