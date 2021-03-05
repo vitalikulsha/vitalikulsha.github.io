@@ -1,8 +1,11 @@
-<h2> <img src="img/my_photo.jpg" align="right" width="200">
+<p> 
+  <img src="img/banner.jpg" align="right">
+</p>
+
+<h2>
+   <img src="img/my_photo.jpg" align="right" width="200">
 </h2>
 
-<h2> <img src="img/logo V2.jpg" align="left" width="80">
-</h2>
 
 # Vitali Kulsha
 
