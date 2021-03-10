@@ -1,5 +1,5 @@
 <h2>
-   <img src="img/banner V2.jpg" align="right">
+   <img src="img/banner_V2.jpg" align="right">
 </h2>
 
 <h2>
